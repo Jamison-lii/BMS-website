@@ -1,0 +1,6 @@
+{
+  "name": "Department of Biomedical Science",
+  "description": "Official academic portal for the Department of Biomedical Science: pioneering molecular research, academic fields, faculty officers, publications, and clinical resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
