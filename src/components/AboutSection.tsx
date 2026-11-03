@@ -18,7 +18,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onExploreOfficers, o
           <div className="max-w-2xl">
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#1B4332]/8 text-xs font-semibold text-[#1B4332] mb-3">
               <span className="w-1.5 h-1.5 rounded-full bg-[#2D6A4F]" />
-              <span>About The Department</span>
+              <span>About This Department</span>
             </div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-slate-900 font-serif">
               Three Decades of Pioneering Discoveries & Scientific Leadership
